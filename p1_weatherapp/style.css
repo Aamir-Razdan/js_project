@@ -1,0 +1,16 @@
+
+body{
+    background-color: aliceblue;
+}
+.container{
+    width:50%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+.details{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+}
